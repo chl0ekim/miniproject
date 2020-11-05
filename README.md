@@ -1,5 +1,5 @@
-# miniproject
-chloekim, sarah zaheer
+### miniproject by chloekim&sarahzaheer
+'''
 // Copyright (c) 2019 ml5
 //
 // This software is released under the MIT License.
@@ -165,3 +165,4 @@ function drawSkeleton() {
   }
 
 }
+'''
