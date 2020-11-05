@@ -1,7 +1,6 @@
 ### miniproject by chloekim&sarahzaheer
-'''
+```
 // Copyright (c) 2019 ml5
-//
 // This software is released under the MIT License.
 // https://opensource.org/licenses/MIT
 
@@ -163,6 +162,7 @@ function drawSkeleton() {
       line(partA.position.x, partA.position.y, partB.position.x, partB.position.y);
     }
   }
+  }
+```
 
-}
-'''
+
